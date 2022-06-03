@@ -2,9 +2,9 @@
 
 <h2>Description</h2>
 I created this script to automate simple tasks I always do to configure a Linux VM<br>
-after I've provisioned it for testing something. It enables ufw, updates repositories,<br>
-updates any install packages, installs ClamAv, upgrades the operating system, then<br>
-reboots the machine.
+after I've provisioned it to test something. It enables ufw, updates repositories,<br>
+updates any installed packages, installs ClamAv, upgrades the operating system,<br>
+then reboots the machine.
 
 <h2>How to Use</h2>
 Navigate to the directory where this script is stored and run<br>
