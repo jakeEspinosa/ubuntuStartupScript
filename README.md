@@ -8,7 +8,7 @@ reboots the machine.
 
 <h2>How to Use</h2>
 Navigate to the directory where this script is stored and run<br>
-"chmod +x ubuntuStartupScript" and then "sudo ./ubuntuStartupScript".<br>
+"chmod +x ubuntuStartupScript.sh" and then "sudo ./ubuntuStartupScript.sh".<br>
 You will need to type in your password as well as have sudoer privileges.
 
 <h2>Technologies Used</h2>
